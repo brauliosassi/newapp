@@ -11,6 +11,14 @@ export class AppComponent {
   variable2 = 'Second Button';
   variable3 = 'Third Button';
 
+  alertFunction (){
+    return 'New Third Button'
+  }
 
+  buttons = {
+    var1 :'First Button',
+    var2 : 'Second Button',
+    var3 : 'Third Button'
+  }
 }
 
