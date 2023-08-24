@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'newapp';
+  variable1 = 'First Button';
+  variable2 = 'Second Button';
+  variable3 = 'Third Button';
+
+
 }
+
